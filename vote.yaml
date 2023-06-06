@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vote
-        image: davidmosad/vote-app:TAG
+        image: davidmosad/vote-app:1.0.110
         ports:
         - containerPort: 80
         resources:
